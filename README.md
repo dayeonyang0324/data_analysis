@@ -86,5 +86,9 @@ plt.xlabel('')  # x축 이름
 plt.ylabel('')  # y축 이름
 ```
 
+ 
+
+### 3. Numpy
+
 
 
