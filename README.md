@@ -88,7 +88,13 @@ plt.ylabel('')  # y축 이름
 
  
 
-### 3. Numpy
+### 2. Numpy
+
+
+
+### 3. Pandas
+
+
 
 
 
